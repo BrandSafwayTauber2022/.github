@@ -1,5 +1,4 @@
-# BrandSafway Tauber Project 2022
-# Tips and Pointers
+# BrandSafway Tauber Project 2022: Tips and Pointers
 
 ## Cloning the code for first time
 <p><code> git clone [URL of repo] </code></p>
